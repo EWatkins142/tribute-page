@@ -1,0 +1,11 @@
+.jumbotron{
+  height:20vh;
+}
+
+#farmer{
+  background-position: center;
+  background-image:url(tribute-pics/farmer.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:80vh;
+}
